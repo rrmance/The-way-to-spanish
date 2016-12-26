@@ -1,0 +1,8 @@
+cd zhibimo-guide
+git remove add zhibimo  http://git.zhibimo.com/Zhou_Guangnan/espa-ol-con-don-quijote.git
+git remove -vv
+> origin    https://git.gitbook.com/hpyhacking/zhibimo-guide.git (fetch)
+> origin    https://git.gitbook.com/hpyhacking/zhibimo-guide.git (push)
+> zhibimo    http://git.zhibimo.com/hpyhacking/zhibimo-guide.git (fetch)
+> zhibimo    http://git.zhibimo.com/hpyhacking/zhibimo-guide.git (push)
+git push zhibimo master -f
